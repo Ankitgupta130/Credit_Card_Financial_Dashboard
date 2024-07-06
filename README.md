@@ -10,6 +10,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 4. Upload the data from SQL to Power BI
 ## Project Insights- Week 53 (31st Dec)
 WoW change:
+
 • Revenue increased by 28.8%.
 
 • Total Transaction Amt & Count increased by xx% & xx%.
