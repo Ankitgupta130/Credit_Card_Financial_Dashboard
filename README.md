@@ -13,9 +13,9 @@ WoW change:
 
 • Revenue increased by 28.8%.
 
-• Total Transaction Amt & Count increased by xx% & xx%.
+• Total Transaction Amt & Count increased by 34% & 10%.
 
-• Customer count increased by xx%.
+• Customer count increased by 12%.
 
 Overview YTD:
 
