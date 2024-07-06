@@ -17,7 +17,9 @@ WoW change:
 • Customer count increased by xx%.
 
 Overview YTD:
+
 • Overall revenue is 57M.
+
 • Total interest is 8M.
 
 • Total transaction amount is 46M.
